@@ -1,6 +1,5 @@
 ﻿# Mila_SentiBot
 
-# Restaurant_Assistant_by_Mila-Bot
 # MilaBot: Your Personal Restaurant Assistant
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
